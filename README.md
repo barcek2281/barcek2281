@@ -1,16 +1,29 @@
-## Hi there 👋
 
-<!--
-**barcek2281/barcek2281** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="welcome.png"/>
 
-Here are some ideas to get you started:
+<div align="center">
+  My Name is Ayanat and i like Golang
+</div>
+<br>
+<table width="100%" align="center">
+  <tr>
+    <td align="center">
+      <a href="https://barcek2281.github.io">Visit my web page</a>
+    </td>
+  </tr>
+  <td>
+    <a href="https://barcek2281.github.io"><img src="globe.gif"/></a>
+  </td>
+</table>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My stack
+```json
+{
+  "language": ["Go"],
+  "database": ["PostgreSQL", "Mongodb", "Redis"],
+  "broker-message": ["Rabbitmq", "Nats"],
+  "architecture": ["microservices", "event-driven", "design system pattern"],
+  "interactions": ["gRPC", "REST API"]
+}
+```
