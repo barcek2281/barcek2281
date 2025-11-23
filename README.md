@@ -19,6 +19,7 @@
 
 ## My stack
 [![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
 [![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)](#)
@@ -30,9 +31,17 @@
 ## About me
 ```json
 {
-  "About me": "",
-  "Why did i choose programming": "",
-  "My hobbies": "",
-  "My goals": ""
+  "About me": "I am backend developer and i like it.",
+  "Why did i choose programming": "I very like solving a problems or define task and complete it.",
+  "My hobbies":
+          [
+            "competitive programming",
+            "listen music",
+            "play computer games",
+            "read books",
+            "watch movies",
+            "fucking love to play Basketball"
+          ],
+  "My goals": "Be and stay happy."
 }
 ```
