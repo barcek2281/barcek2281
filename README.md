@@ -2,7 +2,7 @@
 <img src="welcome.png"/>
 
 <div align="center">
-  My Name is Ayanat and i am backend developer (Golang)
+  My Name is Ayanat and i am backend developer.
 </div>
 <br>
 <table width="100%" align="center">
